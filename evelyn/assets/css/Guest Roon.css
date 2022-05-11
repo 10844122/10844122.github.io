@@ -1,0 +1,50 @@
+body {
+    font-family: "Poppins";
+    background-image: url("../image/bg.png");
+    background-position: center;
+    background-repeat: repeat;
+    background-size: 20%;
+    overflow-x: hidden;
+  }
+  
+  @media (max-width: 1950px) {
+    .navbg{
+      background-color: #bc8f8f3b;
+    }
+  
+    .home2{
+      width: 100px;
+    }
+  
+    .door{
+      width: 250px;
+    }
+  
+    .doortop{
+        margin-top: 200px;
+    }
+  
+    .door2{
+      width: 350px;
+    }
+
+    .door3{
+      width: 230px;
+    }
+
+    .mini{
+      width: 60px;
+    }
+    .mini2{
+      width: 45px;
+    }
+    .miniF{
+      width: 20px;
+    }
+
+    .wbg{
+      background-color: rgba(255, 255, 255, 0.52);
+    }
+  }
+  
+  
